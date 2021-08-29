@@ -31,6 +31,10 @@ body {
     --Toggle: hsl(230, 22%, 74%);
 }
 
+.head-h2 {
+    display: none;
+}
+
 .wrapper {
     padding: 0 30px;
 }
